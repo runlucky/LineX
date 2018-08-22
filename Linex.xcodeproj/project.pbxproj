@@ -453,7 +453,7 @@
 				TargetAttributes = {
 					E35942161F55564C009EFA35 = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = KQQ77ZBE5E;
+						DevelopmentTeam = S8M9V325CJ;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.Sandbox = {
@@ -463,23 +463,23 @@
 					};
 					E35942271F55564C009EFA35 = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = KQQ77ZBE5E;
+						DevelopmentTeam = S8M9V325CJ;
 						ProvisioningStyle = Automatic;
 						TestTargetID = E35942161F55564C009EFA35;
 					};
 					E359423A1F55565E009EFA35 = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = KQQ77ZBE5E;
+						DevelopmentTeam = S8M9V325CJ;
 						ProvisioningStyle = Automatic;
 					};
 					E39E226C1F59876A00354A5F = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = KQQ77ZBE5E;
+						DevelopmentTeam = S8M9V325CJ;
 						ProvisioningStyle = Automatic;
 					};
 					E3F543921F5A84FC008F426E = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = KQQ77ZBE5E;
+						DevelopmentTeam = S8M9V325CJ;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -786,7 +786,7 @@
 				CODE_SIGN_ENTITLEMENTS = Linex/Linex.entitlements;
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = KQQ77ZBE5E;
+				DEVELOPMENT_TEAM = S8M9V325CJ;
 				INFOPLIST_FILE = Linex/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.kaunteya.Linex;
@@ -804,7 +804,7 @@
 				CODE_SIGN_ENTITLEMENTS = Linex/Linex.entitlements;
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = KQQ77ZBE5E;
+				DEVELOPMENT_TEAM = S8M9V325CJ;
 				INFOPLIST_FILE = Linex/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.kaunteya.Linex;
@@ -820,7 +820,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = KQQ77ZBE5E;
+				DEVELOPMENT_TEAM = S8M9V325CJ;
 				INFOPLIST_FILE = LinexTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.kaunteya.LinexTests;
@@ -836,7 +836,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = KQQ77ZBE5E;
+				DEVELOPMENT_TEAM = S8M9V325CJ;
 				INFOPLIST_FILE = LinexTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.kaunteya.LinexTests;
@@ -852,7 +852,7 @@
 				CODE_SIGN_ENTITLEMENTS = Line/Line.entitlements;
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = KQQ77ZBE5E;
+				DEVELOPMENT_TEAM = S8M9V325CJ;
 				INFOPLIST_FILE = Line/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @executable_path/../../../../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
@@ -870,7 +870,7 @@
 				CODE_SIGN_ENTITLEMENTS = Line/Line.entitlements;
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = KQQ77ZBE5E;
+				DEVELOPMENT_TEAM = S8M9V325CJ;
 				INFOPLIST_FILE = Line/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @executable_path/../../../../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
@@ -888,7 +888,7 @@
 				CODE_SIGN_ENTITLEMENTS = Selection/Selection.entitlements;
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = KQQ77ZBE5E;
+				DEVELOPMENT_TEAM = S8M9V325CJ;
 				INFOPLIST_FILE = Selection/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @executable_path/../../../../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
@@ -905,7 +905,7 @@
 				CODE_SIGN_ENTITLEMENTS = Selection/Selection.entitlements;
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = KQQ77ZBE5E;
+				DEVELOPMENT_TEAM = S8M9V325CJ;
 				INFOPLIST_FILE = Selection/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @executable_path/../../../../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
@@ -922,7 +922,7 @@
 				CODE_SIGN_ENTITLEMENTS = Convert/Convert.entitlements;
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = KQQ77ZBE5E;
+				DEVELOPMENT_TEAM = S8M9V325CJ;
 				INFOPLIST_FILE = Convert/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @executable_path/../../../../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
@@ -939,7 +939,7 @@
 				CODE_SIGN_ENTITLEMENTS = Convert/Convert.entitlements;
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = KQQ77ZBE5E;
+				DEVELOPMENT_TEAM = S8M9V325CJ;
 				INFOPLIST_FILE = Convert/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @executable_path/../../../../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
